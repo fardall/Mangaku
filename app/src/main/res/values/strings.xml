@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mangaku</string>
+    <string name="mangaku">mangaku</string>
+    <string name="genre">Genre :</string>
+    <string name="ringkasan">Ringkasan</string>
+    <string name="profile">Profile</string>
+    <string name="creator_name">Muhamad Fardal Akter Min Gali</string>
+    <string name="creator_email">aafardal8@gmail.com</string>
+</resources>
